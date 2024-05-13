@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RHANIM chaymae</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaymaerh&label=Profile%20views&color=0e75b6&style=flat-square" alt="chaymaerh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaymaerh" alt="chaymaerh" /></a> </p>
+
 
 - 📫 How to reach me **chaymaerh2002@gmail.com**
 
